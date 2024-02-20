@@ -1,0 +1,19 @@
+Energia
+	Klasa EM
+		2 właściwości
+		1 metode
+	Klasa EP
+		2 właściwości
+		1 metode
+	Klasa EK
+		2 właściwości
+		1 metode
+	Klasa EMC
+		2 właściwości
+		1 metode
+	Klasa Uruchom
+		zbiera metody i uruchamia wszystkie klasy
+
+int main()
+	wykonamy
+		utworzymy obiekt instancji klasy Uruchom

@@ -1,0 +1,4 @@
+﻿  zadanieeeeeeeee.cpp
+C:\Users\Programista\Desktop\JKiecok2CT\24.02.20\zadanieeeeeeeee\zadanieeeeeeeee\zadanieeeeeeeee.cpp(12,28): warning C4244: "return": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Programista\Desktop\JKiecok2CT\24.02.20\zadanieeeeeeeee\zadanieeeeeeeee\zadanieeeeeeeee.cpp(21,36): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+  zadanieeeeeeeee.vcxproj -> C:\Users\Programista\Desktop\JKiecok2CT\24.02.20\zadanieeeeeeeee\x64\Debug\zadanieeeeeeeee.exe
